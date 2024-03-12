@@ -8,5 +8,5 @@
 
 ## Week 2
 - [x] Ex1: Gradient Descent for Linear Regression
-- [ ] Ex2: Binary Classification with Logistic Regression
+- [x] Ex2: Binary Classification with Logistic Regression
 - [x] Ex3: Gradient Descent for MNIST Classification
