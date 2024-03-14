@@ -10,3 +10,8 @@
 - [x] Ex1: Gradient Descent for Linear Regression
 - [x] Ex2: Binary Classification with Logistic Regression
 - [x] Ex3: Gradient Descent for MNIST Classification
+
+## Week 3
+- [ ] Ex2: MLP classifier with increasing training set (double descent)
+- [ ] Ex3: Evaluating optimal MLP model complexity
+- [ ] Ex4: Evaluating optimal MLP model complexity with regularization
