@@ -12,6 +12,6 @@
 - [x] Ex3: Gradient Descent for MNIST Classification
 
 ## Week 3
-- [ ] Ex2: MLP classifier with increasing training set (double descent)
-- [ ] Ex3: Evaluating optimal MLP model complexity
-- [ ] Ex4: Evaluating optimal MLP model complexity with regularization
+- [x] Ex2: MLP classifier with increasing training set (double descent)
+- [x] Ex3: Evaluating optimal MLP model complexity
+- [x] Ex4: Evaluating optimal MLP model complexity with regularization
