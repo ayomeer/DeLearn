@@ -15,3 +15,8 @@
 - [x] Ex2: MLP classifier with increasing training set (double descent)
 - [x] Ex3: Evaluating optimal MLP model complexity
 - [x] Ex4: Evaluating optimal MLP model complexity with regularization
+
+### Week 4
+- [x] Ex1: Computation of convolutions
+- [] Ex2: Shallow networks on CIFAR10
+- [x] Ex3: CNN on CIFAR10
