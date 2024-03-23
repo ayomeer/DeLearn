@@ -17,6 +17,6 @@
 - [x] Ex4: Evaluating optimal MLP model complexity with regularization
 
 ## Week 4
-- [x] Ex1: Convolutions on Images (not yet uploaded)
+- [x] Ex1: Convolutions on Images
 - [x] Ex2: Multilayer Neural Networks for image Classification 
 - [x] Ex3: Multilayer _Convolutional_ Neural Networks for image classification
