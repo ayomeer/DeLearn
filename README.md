@@ -15,3 +15,8 @@
 - [x] Ex2: MLP classifier with increasing training set (double descent)
 - [x] Ex3: Evaluating optimal MLP model complexity
 - [x] Ex4: Evaluating optimal MLP model complexity with regularization
+
+## Week 4
+- [x] Ex1: Convolutions on Images (not yet uploaded)
+- [x] Ex2: Multilayer Neural Networks for image Classification 
+- [ ] Ex3: Multilayer _Convolutional_ Neural Networks for image classification
