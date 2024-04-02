@@ -20,3 +20,10 @@
 - [x] Ex1: Convolutions on Images
 - [x] Ex2: Multilayer Neural Networks for image Classification 
 - [x] Ex3: Multilayer _Convolutional_ Neural Networks for image classification
+
+## Week 5
+- [x] Ex1: Optimizer Characteristics, 2D example
+- [x] Ex3: Fashion MNIST 2-Layer CNN: Testing and Tuning
+- [x] Ex4: k-Fold Cross-Validation
+- [x] Ex5: Comparing Optimizers: Vanilla SGD, Momentum, RMSProp, Adam
+- [x] Ex6: Learning Rate Scheduling
