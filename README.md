@@ -27,3 +27,8 @@
 - [x] Ex4: k-Fold Cross-Validation
 - [x] Ex5: Comparing Optimizers: Vanilla SGD, Momentum, RMSProp, Adam
 - [x] Ex6: Learning Rate Scheduling
+
+## Week 6
+- [x] Ex1: Data Augmentation
+- [x] Ex2: Visualization of activations
+- [] Ex4: Analysis of a Deep Architecture
