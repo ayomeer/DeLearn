@@ -9,7 +9,7 @@
 ## Week 2
 - [x] Ex1: Gradient Descent for Linear Regression
 - [x] Ex2: Binary Classification with Logistic Regression
-- [x] Ex3: Gradient Descent for MNIST Classification
+- [x] Ex3: Gradient Descent for MNIST, Softmax Classification
 
 ## Week 3
 - [x] Ex2: MLP classifier with increasing training set (double descent)
@@ -31,4 +31,7 @@
 ## Week 6
 - [x] Ex1: Data Augmentation
 - [x] Ex2: Visualization of activations
-- [] Ex4: Analysis of a Deep Architecture
+- [x] Ex4: Analysis of a Deep Architecture
+
+## Week 7
+- [ ] Ex1: Learning without autograd: forward, backward, update
