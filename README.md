@@ -31,4 +31,8 @@
 ## Week 6
 - [x] Ex1: Data Augmentation
 - [x] Ex2: Visualization of activations
-- [] Ex4: Analysis of a Deep Architecture
+- [x] Ex4: Analysis of a Deep Architecture
+
+## Week 7
+- [ ] Ex1: Implementation of Back-Propagation without Autograd
+- [x] Ex3: GradCam
