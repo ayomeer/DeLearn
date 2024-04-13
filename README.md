@@ -34,4 +34,5 @@
 - [x] Ex4: Analysis of a Deep Architecture
 
 ## Week 7
-- [ ] Ex1: Learning without autograd: forward, backward, update
+- [ ] Ex1: Implementation of Back-Propagation without Autograd
+- [x] Ex3: GradCam
