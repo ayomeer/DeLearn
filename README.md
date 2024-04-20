@@ -34,5 +34,9 @@
 - [x] Ex4: Analysis of a Deep Architecture
 
 ## Week 7
-- [ ] Ex1: Implementation of Back-Propagation without Autograd
+- [x] Ex1: Implementation of Back-Propagation without Autograd
 - [x] Ex3: GradCam
+
+## Week 8
+- [ ] Ex1: Parameter initialization
+- [ ] Ex2: Batch Normalization
