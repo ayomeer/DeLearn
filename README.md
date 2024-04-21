@@ -39,4 +39,4 @@
 
 ## Week 8
 - [ ] Ex1: Parameter initialization
-- [ ] Ex2: Batch Normalization
+- [x] Ex2: Batch Normalization
