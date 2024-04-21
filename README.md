@@ -38,5 +38,5 @@
 - [x] Ex3: GradCam
 
 ## Week 8
-- [ ] Ex1: Parameter initialization
+- [x] Ex1: Parameter initialization
 - [x] Ex2: Batch Normalization
