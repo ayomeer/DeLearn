@@ -40,3 +40,7 @@
 ## Week 8
 - [x] Ex1: Parameter initialization
 - [x] Ex2: Batch Normalization
+
+## Week 10
+- [ ] Ex1: Names Classification
+- [x] Ex2: Human Activity Recoginition
