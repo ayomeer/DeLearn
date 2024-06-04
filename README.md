@@ -1,5 +1,7 @@
 # Index
 
+9/12 = 
+
 ## Week 1
 - [x] Ex1: Overview Python (Optional)
 - [x] Ex2: Overview Numpy
@@ -41,6 +43,20 @@
 - [x] Ex1: Parameter initialization
 - [x] Ex2: Batch Normalization
 
+## Week 9 (Self-corrected exercise)
+- Frameworks and Hardware considerations
+
 ## Week 10
-- [ ] Ex1: Names Classification
+- [x] Ex1: Names Classification
 - [x] Ex2: Human Activity Recoginition
+
+## Week 11 (skipped)
+Generative models, Word Embeddings
+
+## Week 12 (skipped)
+- [ ] Ex1: Non-sequential architectures
+- [ ] Ex2: Transfer Learning
+- [ ] Ex3: (Optional) Autoencoders
+
+# Week 13
+- [ ] Ex1: Autoencoders and Variational Autoencoders
